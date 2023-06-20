@@ -17,6 +17,6 @@ print("bitwise |",n1|n2)
 print("Identity operator")
 print("is ", n1 is n2)
 print("Membership operator")
-a='kanak'
-print('k' in a)
-print('n' is not a)
+a='Hello world'
+print('l' in a)
+print('E' is not a)
